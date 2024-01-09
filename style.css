@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/kirens-brush-demo');
+
 *{
     margin: 0;
     padding: 0;
@@ -194,7 +196,7 @@ li{
 
 .landing-text H1{
     font-size: 20rem;
-    font-family: 'The Historia Demo', sans-serif;
+    font-family: 'Kirens Brush DEMO', sans-serif;
     background-image: linear-gradient(to top, #ffe838, #fd57bf);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
